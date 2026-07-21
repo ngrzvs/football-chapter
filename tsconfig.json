@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "types": ["vitest/globals", "@cloudflare/workers-types"]
+  },
+  "include": ["apps", "packages", "vite.config.ts"]
+}
+

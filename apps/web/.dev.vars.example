@@ -1,0 +1,3 @@
+ENVIRONMENT=development
+HMAC_SECRET=replace-with-a-long-random-secret
+TURNSTILE_SECRET=
