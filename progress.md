@@ -6,6 +6,7 @@ Original prompt: Implémenter la V1 d'une PWA bilingue de simulation de carrièr
 - Références visuelles approuvées comparées au hub desktop, au match 2.5D et au hub mobile.
 - Tests Vitest : 18/18. Build Vite : réussi. Worker : 7/7, bundle et migration validés.
 - Playwright : onboarding, hub, match avant action, action jusqu’à la décision et mobile vérifiés sans erreur console.
+- Dépôt public GitHub créé et branche complète publiée dans la draft PR #1.
 
 ## Contraintes à préserver
 
@@ -19,7 +20,6 @@ Original prompt: Implémenter la V1 d'une PWA bilingue de simulation de carrièr
 
 - Remplacer l’identifiant D1 nul et fournir les secrets avant déploiement Cloudflare.
 - Exécuter le laboratoire complet 100 000 carrières sur CI/runner long (le script est disponible).
-- Publier sur GitHub via la branche et la draft PR dès réauthentification de `gh`.
 
 ## Client PWA — design system et architecture
 
